@@ -1,0 +1,6 @@
+{
+  "name": "MotoFlash Entregas",
+  "description": "App de entregas para Cliente e Motoboy com rastreamento GPS em tempo real, chat integrado, avaliação, pagamentos e painel administrativo.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
